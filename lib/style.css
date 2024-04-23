@@ -1,0 +1,20 @@
+.fa-adjust{
+    font-size: 2rem;
+    color: #fff;
+}
+.dark-container{
+    top: 5rem;
+    left: 5rem; 
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #222831;
+    margin-top: 5px;
+
+}
+body {
+    transition: 0.3s all ease;
+}
